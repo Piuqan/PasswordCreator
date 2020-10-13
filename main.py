@@ -23,4 +23,4 @@ try:
     specjalne = input("Czy chcesz żeby użyć znaków specjalnych? T/N")
     generacjahasla(znaki, numeryczne, specjalne)
 except:
-    print("coś się spierdoliło")
+    print("coś tu nie działa")
